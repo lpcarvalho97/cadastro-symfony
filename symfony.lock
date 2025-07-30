@@ -80,6 +80,9 @@
             ".editorconfig"
         ]
     },
+    "symfony/maker-bundle": {
+        "version": "v1.64.0"
+    },
     "symfony/routing": {
         "version": "7.3",
         "recipe": {
